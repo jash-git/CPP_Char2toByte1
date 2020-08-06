@@ -1,0 +1,1 @@
+純C/C++ 將兩個字元(CHAR)塞入1個位元組(BYTE) [CPP_Char2toByte1]
